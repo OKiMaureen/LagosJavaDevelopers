@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lagos Java Developers</string>
+    <string name="internet">No internet connection, please connect to the internet</string>
+    <string name="username">Username</string>
+    <string name="githubLink">Github Profile Link</string>
+</resources>
